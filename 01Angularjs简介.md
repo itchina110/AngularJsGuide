@@ -1,4 +1,4 @@
-AngularJsGuide
+Angular简介
 ==============
 
 ##AngularJs是什么？
