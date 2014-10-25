@@ -11,7 +11,7 @@ AngularJsGuide
 
 > 如果你发现文中有许多不恰当，或是有错误的，请给予改正，后面给出了我的联系方式。
 
-***
+
 
 ##联系我
   >> 邮箱：<yuanzhouxiao@foxmail.com>
