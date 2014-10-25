@@ -10,5 +10,6 @@ AngularJs数据绑定
 
       >数据绑定在Angular模板系统中的表现：
       <img src="img/Two_Way_Data_Binding.png">
+      ![image](img/Two_Way_Data_Binding.png)
       
 Angular模板就不一样了。      
