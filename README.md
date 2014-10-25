@@ -1,7 +1,7 @@
 AngularJsGuide
 ==============
 
-翻译自AngularJs开发者指南
+翻译自AngularJs开发者指南<https://docs.angularjs.org/guide>
 ***
 
 
